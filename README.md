@@ -1,2 +1,2 @@
-# caveda-gmail.com
-firestorage-publisher
+Firestorage-publisher
+Python CLI to publish files in Firebase storage
