@@ -77,7 +77,6 @@ def sign_in_with_token(auth, filetoken):
     return token
 
 
-
 def main():
     """ Main function """
     start = time.time()
